@@ -1,0 +1,9 @@
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\bin\Debug\Latihan_1_1TabIcon.pdb
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.Form1.resources
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.Properties.Resources.resources
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_1TabIcon\obj\Debug\Latihan_1_1TabIcon.pdb
