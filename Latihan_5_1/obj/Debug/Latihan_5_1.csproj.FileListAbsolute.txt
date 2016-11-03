@@ -7,3 +7,6 @@ D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateRes
 D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.exe
 D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
 D:\Selasa_141111758_Charles\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Tugas Framework\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
