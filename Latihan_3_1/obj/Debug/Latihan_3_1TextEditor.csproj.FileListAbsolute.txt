@@ -7,3 +7,6 @@ D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEdito
 D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.csproj.GenerateResource.Cache
 D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.exe
 D:\Selasa_141111758_Charles\Latihan_3_1TextEditor\obj\Debug\Latihan_3_1TextEditor.pdb
+C:\Users\test\Desktop\Tugas Framework\Latihan_3_1\bin\Debug\Latihan_3_1TextEditor.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_3_1\obj\Debug\Latihan_3_1TextEditor.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_3_1\obj\Debug\Latihan_3_1TextEditor.pdb
