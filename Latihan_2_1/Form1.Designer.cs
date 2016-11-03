@@ -39,13 +39,13 @@
             // monthCalendar1
             // 
             this.monthCalendar1.CalendarDimensions = new System.Drawing.Size(2, 2);
-            this.monthCalendar1.Location = new System.Drawing.Point(114, 96);
+            this.monthCalendar1.Location = new System.Drawing.Point(153, 12);
             this.monthCalendar1.Name = "monthCalendar1";
             this.monthCalendar1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(378, 33);
+            this.button1.Location = new System.Drawing.Point(12, 77);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(475, 32);
+            this.button2.Location = new System.Drawing.Point(12, 117);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
@@ -77,7 +77,7 @@
             this.Bulan.Items.Add("Oktober");
             this.Bulan.Items.Add("November");
             this.Bulan.Items.Add("Desember");
-            this.Bulan.Location = new System.Drawing.Point(245, 32);
+            this.Bulan.Location = new System.Drawing.Point(12, 38);
             this.Bulan.Name = "Bulan";
             this.Bulan.Size = new System.Drawing.Size(95, 20);
             this.Bulan.TabIndex = 3;
@@ -85,7 +85,7 @@
             // 
             // day
             // 
-            this.day.Location = new System.Drawing.Point(154, 32);
+            this.day.Location = new System.Drawing.Point(12, 12);
             this.day.Name = "day";
             this.day.Size = new System.Drawing.Size(65, 20);
             this.day.TabIndex = 4;
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(775, 462);
+            this.ClientSize = new System.Drawing.Size(675, 339);
             this.Controls.Add(this.day);
             this.Controls.Add(this.Bulan);
             this.Controls.Add(this.button2);

@@ -7,3 +7,6 @@ D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthC
 D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.csproj.GenerateResource.Cache
 D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.exe
 D:\Selasa_141111758_Charles\Latihan_2_1MonthCalendar\obj\Debug\Latihan_2_1MonthCalendar.pdb
+C:\Users\test\Desktop\Tugas Framework\Latihan_2_1\bin\Debug\Latihan_2_1MonthCalendar.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_2_1\obj\Debug\Latihan_2_1MonthCalendar.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_2_1\obj\Debug\Latihan_2_1MonthCalendar.pdb
