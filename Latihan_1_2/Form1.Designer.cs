@@ -37,7 +37,7 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(210, 92);
+            this.dateTimePicker1.Location = new System.Drawing.Point(210, 12);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // vScrollBar1
             // 
             this.vScrollBar1.LargeChange = 1;
-            this.vScrollBar1.Location = new System.Drawing.Point(119, 92);
+            this.vScrollBar1.Location = new System.Drawing.Point(9, 9);
             this.vScrollBar1.Maximum = 10;
             this.vScrollBar1.Minimum = 1;
             this.vScrollBar1.Name = "vScrollBar1";
@@ -58,7 +58,7 @@
             // vScrollBar2
             // 
             this.vScrollBar2.LargeChange = 1;
-            this.vScrollBar2.Location = new System.Drawing.Point(490, 92);
+            this.vScrollBar2.Location = new System.Drawing.Point(610, 9);
             this.vScrollBar2.Maximum = 10;
             this.vScrollBar2.Minimum = 1;
             this.vScrollBar2.Name = "vScrollBar2";
@@ -70,7 +70,7 @@
             // lbl1
             // 
             this.lbl1.AutoSize = true;
-            this.lbl1.Location = new System.Drawing.Point(119, 196);
+            this.lbl1.Location = new System.Drawing.Point(12, 103);
             this.lbl1.Name = "lbl1";
             this.lbl1.Size = new System.Drawing.Size(35, 13);
             this.lbl1.TabIndex = 3;
@@ -79,7 +79,7 @@
             // lbl2
             // 
             this.lbl2.AutoSize = true;
-            this.lbl2.Location = new System.Drawing.Point(490, 196);
+            this.lbl2.Location = new System.Drawing.Point(592, 103);
             this.lbl2.Name = "lbl2";
             this.lbl2.Size = new System.Drawing.Size(35, 13);
             this.lbl2.TabIndex = 4;
@@ -89,7 +89,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(636, 410);
+            this.ClientSize = new System.Drawing.Size(637, 130);
             this.Controls.Add(this.lbl2);
             this.Controls.Add(this.lbl1);
             this.Controls.Add(this.vScrollBar2);

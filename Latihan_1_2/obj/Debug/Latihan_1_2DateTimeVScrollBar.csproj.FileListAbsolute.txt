@@ -19,3 +19,6 @@ C:\Users\test\Desktop\Selasa_141111758_Charles\Latihan_1_2DateTimeVScrollBar\obj
 C:\Users\test\Desktop\Selasa_141111758_Charles\Latihan_1_2DateTimeVScrollBar\obj\Debug\Latihan_1_2DateTimeVScrollBar.Form1.resources
 C:\Users\test\Desktop\Selasa_141111758_Charles\Latihan_1_2DateTimeVScrollBar\obj\Debug\Latihan_1_2DateTimeVScrollBar.Properties.Resources.resources
 C:\Users\test\Desktop\Selasa_141111758_Charles\Latihan_1_2DateTimeVScrollBar\obj\Debug\Latihan_1_2DateTimeVScrollBar.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_2\bin\Debug\Latihan_1_2DateTimeVScrollBar.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_2\obj\Debug\Latihan_1_2DateTimeVScrollBar.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_1_2\obj\Debug\Latihan_1_2DateTimeVScrollBar.pdb
