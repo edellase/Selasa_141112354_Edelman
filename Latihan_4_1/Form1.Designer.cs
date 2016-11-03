@@ -116,39 +116,39 @@
             // newToolStripMenuItem
             // 
             this.newToolStripMenuItem.Name = "newToolStripMenuItem";
-            this.newToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.newToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.newToolStripMenuItem.Text = "New";
             // 
             // openToolStripMenuItem
             // 
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.openToolStripMenuItem.Text = "Open";
             this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(149, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(100, 6);
             // 
             // closeToolStripMenuItem
             // 
             this.closeToolStripMenuItem.Name = "closeToolStripMenuItem";
-            this.closeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.closeToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
             this.closeToolStripMenuItem.Text = "Close";
             this.closeToolStripMenuItem.Click += new System.EventHandler(this.closeToolStripMenuItem_Click);
             // 
             // comboBoxFont
             // 
             this.comboBoxFont.FormattingEnabled = true;
-            this.comboBoxFont.Location = new System.Drawing.Point(265, 50);
+            this.comboBoxFont.Location = new System.Drawing.Point(175, 48);
             this.comboBoxFont.Name = "comboBoxFont";
             this.comboBoxFont.Size = new System.Drawing.Size(121, 21);
             this.comboBoxFont.TabIndex = 9;
@@ -176,7 +176,7 @@
             "48",
             "72",
             ""});
-            this.comboBoxSize.Location = new System.Drawing.Point(402, 50);
+            this.comboBoxSize.Location = new System.Drawing.Point(302, 48);
             this.comboBoxSize.Name = "comboBoxSize";
             this.comboBoxSize.Size = new System.Drawing.Size(40, 21);
             this.comboBoxSize.TabIndex = 10;
@@ -185,7 +185,7 @@
             // 
             // fontColorBtn
             // 
-            this.fontColorBtn.Location = new System.Drawing.Point(460, 50);
+            this.fontColorBtn.Location = new System.Drawing.Point(473, 78);
             this.fontColorBtn.Name = "fontColorBtn";
             this.fontColorBtn.Size = new System.Drawing.Size(78, 23);
             this.fontColorBtn.TabIndex = 11;
@@ -195,7 +195,7 @@
             // 
             // backgroundBtn
             // 
-            this.backgroundBtn.Location = new System.Drawing.Point(557, 50);
+            this.backgroundBtn.Location = new System.Drawing.Point(572, 78);
             this.backgroundBtn.Name = "backgroundBtn";
             this.backgroundBtn.Size = new System.Drawing.Size(75, 23);
             this.backgroundBtn.TabIndex = 12;

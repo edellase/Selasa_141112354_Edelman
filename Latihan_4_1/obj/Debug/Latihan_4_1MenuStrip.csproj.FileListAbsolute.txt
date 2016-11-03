@@ -7,3 +7,6 @@ D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.
 D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.csproj.GenerateResource.Cache
 D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.exe
 D:\Selasa_141111758_Charles\Latihan_4_1MenuStrip\obj\Debug\Latihan_4_1MenuStrip.pdb
+C:\Users\test\Desktop\Tugas Framework\Latihan_4_1\bin\Debug\Latihan_4_1MenuStrip.exe.config
+C:\Users\test\Desktop\Tugas Framework\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.exe
+C:\Users\test\Desktop\Tugas Framework\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.pdb
